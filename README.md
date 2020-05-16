@@ -1,1 +1,2 @@
-# Introduction-to-Embedded-Systems
+Vrabii Daniel
+Array statistics
